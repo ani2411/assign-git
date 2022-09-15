@@ -1,4 +1,8 @@
 1)What is a gitignore file and what should it include for a Java project?
+This file helps in to keep a record in git for what all documents to diregard whil submitting in repository.They include .mtj,.tmp,.class,.jar,.war,.ear
 2)What does fast-forward in Git mean?
+Fast forward is simple and easy way to move the source branch to target branch pointer without creating additional space.
 3)Why should you have different branches?
+Biggest benifit of different branch is independent development. where developers can develop independently in defferent branches when working in a new feature or bug.
 4)In a project how many remote Git repositories do you usually have?
+we can have multiple remote repositories but we can have only one repository named as origin as it is default remote that is generally created by git.
